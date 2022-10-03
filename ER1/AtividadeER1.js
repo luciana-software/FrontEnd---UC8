@@ -142,7 +142,7 @@ else{
       console.log('O nome da peça não pode ser vazio.')  
   } 
   else{
-      //Caso seja digitado outro caractere, retornara que deve ter mais de 3 caracteres.
+      //Caso seja digitado outro caractere, retornarA que deve ter mais de 3 caracteres
       console.log('O nome da peça deve ter mais de 3 caracteres , digite o nome adequado.') 
   }
   
